@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background: url(gracia-dharma-qTlbO6mkQH0-unsplash.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+li a {
+    font-family: montessari;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    padding: .7rem!important;
+    background-color: #4CAF50 !important;
+    border-radius: .2rem .2rem 0 0!important;
+}
+.bottom {
+    padding-bottom: 0!important;
+}
+.container-pad {
+    padding-left: 0!important;
+}
+.space {
+    height: 3px;
+    background-color: #4CAF50;
+}
+.space2 {
+    height: 160px;
+}
+.writing1 {
+    background-color: #4CAF50;
+    color: white;
+    width: 600px;
+    border-radius: 0px 5px 5px 0px;
+}
+.writ {
+    text-align: center!important;
+    position: fixed;
+    bottom: 0;
+    color: white;
+}
