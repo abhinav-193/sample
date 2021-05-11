@@ -13,7 +13,7 @@ li a:hover:not(.active) {
 .active {
     padding: .5rem!important;
     background-color: #4CAF50 !important;
-    border-radius: .2rem!important;
+    border-radius: .2rem .2rem 0 0!important;
 }
 .bottom {
     padding-bottom: 0!important;
